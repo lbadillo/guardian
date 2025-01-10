@@ -1,2 +1,1 @@
 primer alias
-segundo alias
